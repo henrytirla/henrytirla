@@ -5,7 +5,7 @@
 I'm a **developer**, passionate about Crypto Economy, Digital Realities, NFT, Cryptography, and Blockchain Technologies.
 
 
-###### [Get in touch with me] | [Follow me on Twitter](https://twitter.com/henrytirla)  | [LinkedIn](https://www.linkedin.com/in/henry-tirla/)
+###### [Let's Connect] | [Twitter](https://twitter.com/henrytirla)  | [LinkedIn](https://www.linkedin.com/in/henry-tirla/)
 
 
 
