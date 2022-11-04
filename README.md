@@ -2,7 +2,7 @@
 
 #### Passionate about building the future of the internet with Blockchain Technology.
 
-I'm a **developer**, passionate about Data Analysis, Crypto Economy, Digital Realities, NFT, Cryptography, and Blockchain Technologies.
+/*:I'm a **developer**, passionate about Data Analysis, Crypto Economy, Digital Realities, NFT, Cryptography, and Blockchain Technologies.
 
 Currently Studying for my MSc in Datascience and Advanced Analytics @ Nova IMS
 
