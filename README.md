@@ -1,6 +1,6 @@
 <h1>Hello, I'm Henry Tirla  <img src="https://emojis.slackmojis.com/emojis/images/1643514203/1681/bitcoin.png?1643514203" width="30"/></h1>
 
-#### I am learning how to build the future of the internet with Blockchain Technology.
+#### I am learning how to build the future of the internet with blockchain technology.
 
 
 Currently Studying for my MSc in Datascience and Advanced Analytics @ Nova IMS
