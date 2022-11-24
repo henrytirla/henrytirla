@@ -20,7 +20,7 @@ Currently Studying for my MSc in Datascience and Advanced Analytics @ Nova IMS
 <!--   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> -->
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Web3" src="https://img.shields.io/badge/-Web3-a03dd1?style=flat-square&logo=Ethereum&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/-Web3-a03dd1?style=flat-square&logo=Ethereum&logoColor=white" />
 </p>
 
 ###### [Let's Connect] | [Twitter](https://twitter.com/henrytirla)  | [LinkedIn](https://www.linkedin.com/in/henry-tirla/)
