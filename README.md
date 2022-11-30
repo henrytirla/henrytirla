@@ -5,7 +5,7 @@
 
 Currently Studying for my MSc in Datascience and Advanced Analytics @ Nova IMS
 
-<h3>Things I like to code with</h3>
+<h3>I like to code with</h3>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
