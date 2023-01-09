@@ -1,6 +1,5 @@
 <h1>Hello, I'm Henry Tirla  <img src="https://emojis.slackmojis.com/emojis/images/1643514203/1681/bitcoin.png?1643514203" width="30"/></h1>
-
-As a current MSc student at Nova IMS in data science and advanced analytics, I have acquired a strong foundation in technical skills that enable me to drive innovation and contribute to the development of blockchain technology. My ultimate goal is to earn a Ph.D. in artificial intelligence, focusing on securing blockchains and smart contracts. This will allow me to become an expert in the field and use my knowledge to positively impact the world through my work with these groundbreaking technologies. 
+As a current MSc student in Data Science and Advanced Analytics at Nova IMS, I am excited about the potential for blockchain and artificial intelligence to transform our economic and social systems. I believe that trustless systems and transparent transactions can create micro-economies that promote fairness and equality. My long-term goal is to earn a Ph.D. in AI and conduct research specifically focused on securing blockchains and smart contracts. My aim is to contribute to a future where blockchains are secure and free from malicious actors, enabling broader adoption and use of this technology.
 
 
 <!-- 
