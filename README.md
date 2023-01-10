@@ -1,6 +1,6 @@
 <h1>Hello, I'm Henry Tirla  <img src="https://emojis.slackmojis.com/emojis/images/1643514203/1681/bitcoin.png?1643514203" width="30"/></h1>
 
-Currently Studying for my MSc in Datascience and Advanced Analytics @ Nova IMS
+I am currently pursuing my MSc in Data Science and Advanced Analytics @ Nova IMS.
 
 
 
